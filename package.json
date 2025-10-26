@@ -1,0 +1,16 @@
+{
+  "name": "worker-prod-demo",
+  "version": "1.0.0",
+  "description": "Alchemy Worker Production Features Demo",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "alchemy deploy",
+    "destroy": "alchemy destroy",
+    "dev": "alchemy dev"
+  },
+  "devDependencies": {
+    "alchemy": "^1.0.0",
+    "typescript": "^5.0.0"
+  },
+  "type": "module"
+}
