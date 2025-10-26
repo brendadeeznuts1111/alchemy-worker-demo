@@ -9,7 +9,7 @@
     "dev": "alchemy dev"
   },
   "devDependencies": {
-    "alchemy": "^1.0.0",
+    "alchemy": "^0.76.1",
     "typescript": "^5.0.0"
   },
   "type": "module"
